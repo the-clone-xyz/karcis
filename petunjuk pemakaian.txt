@@ -1,0 +1,12 @@
+===================== program by yogi syahputra =========================
+
+tata cara memasukkan dan menjalankan program :
+1. pastikan kamu mempunyai aplikasi turbo pascal 
+2. copy file KARCIS.PAS
+3. pergi ke C:\TPWDB\BIN
+4. tempel file KARCIS.PAS di situ
+5. buka aplikasi turbo pascal, lalu cari nama file yang kamu tempel tadi.
+
+========================= Selamat Belajar ================================
+
+jangan lupa follow tiktok : @RuangBelajar_html 
